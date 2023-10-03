@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Azamat Abraev</h1>
 <h3 align="center">An aspiring software engineer</h3>
 
-- 🌱 I’m currently learning **C, JavaScript, Python, ReactJS**
+- 🌱 I’m currently learning **C, JavaScript, Python, ReactJS, C#**
 
 - 📫 How to reach me **azamatabraev03@gmail.com**
 
