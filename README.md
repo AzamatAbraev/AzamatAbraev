@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Azamat Abraev</h1>
+<h1 align="center">Hi, I'm Azamat Abraev</h1>
 <h3 align="center">An aspiring software engineer</h3>
 
 - 🌱 I’m currently learning **C, JavaScript, Python, ReactJS**
 
 - 📫 How to reach me **azamatabraev03@gmail.com**
 
-- ⚡ Fun fact **I am a chess lover and have become the captain of school soccer team at the age of 15 years old.**
+- ⚡ Fun fact **I am a chess lover and a captain of football team since 15.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
