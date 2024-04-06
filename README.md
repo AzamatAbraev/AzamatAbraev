@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Azamat Abraev!
+# I'm Azamat Abraev!
 
 ## 🌐 About Me
 - 👨‍💻 I'm a Frontend Developer with a passion for creating intuitive and dynamic user experiences.
