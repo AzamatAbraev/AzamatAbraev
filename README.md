@@ -36,10 +36,6 @@ Welcome to my profile! I'm a passionate Java Developer with expertise in designi
 
 ---
 
-For more details, check out my **[GitHub Profile](https://github.com/yourgithubusername)**.
-
----
-
 ## 📬 Let's Connect
 📩 Email: [azamatabraev07@gmail.com](mailto:azamatabraev07@gmail.com)  
 💼 LinkedIn: [Azamat Abraev](https://www.linkedin.com/in/azamat-abraev)  
