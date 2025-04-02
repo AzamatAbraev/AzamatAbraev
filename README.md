@@ -1,25 +1,49 @@
-# I'm Azamat Abraev!
+# Azamat Abraev
 
-## 🌐 About Me
-- 👨‍💻 I'm a Java Developer with a passion for building scalable and efficient backend systems.
-- 🎓 I'm a computer science student at university.
-- 🌱 I’m currently learning about microservices architecture and system design.
-- 🤝 I’m looking to collaborate on open-source projects related to enterprise applications and cloud computing.
-- 📫 How to reach me: azamatabraev07@gmail.com | [LinkedIn](https://www.linkedin.com/in/azamat-abraev/)
+## 🚀 Java Backend Developer | Cloud & Microservices Enthusiast
 
-## 💼 Technical Skills
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=spring)&nbsp;
-![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
+Welcome to my profile! I'm a passionate Java Developer with expertise in designing and building scalable, high-performance backend systems. My focus is on delivering clean, maintainable, and efficient code for enterprise applications and cloud-based solutions.
 
-## 🤝 Let's Connect!
-- LinkedIn: [Azamat Abraev](https://www.linkedin.com/in/azamat-abraev)
-- Email: [azamatabraev07@gmail.com](mailto:azamatabraev07@gmail.com)
+---
 
-Feel free to reach out for collaborations or just a friendly chat!
+## 🏆 About Me
+- 🎓 Computer Science student with a strong foundation in software engineering principles.
+- 💡 Enthusiastic about **microservices architecture, distributed systems, and cloud computing**.
+- 🛠️ Passionate about optimizing system performance, database design, and backend engineering.
+- 🤝 Open to collaborating on **open-source projects, enterprise applications, and cloud-native solutions**.
+
+---
+
+## 🔧 Technical Skills
+### **Programming & Frameworks**
+- **Languages:** Java, C#, SQL
+- **Frameworks:** Spring Boot, Hibernate, Spring Security
+
+### **Databases**
+- **Relational:** MySQL, PostgreSQL
+- **NoSQL:** Redis, MongoDB
+
+### **Cloud & DevOps**
+- **Platforms:** AWS (EC2, S3, RDS, Lambda)
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **Messaging & Streaming:** Apache Kafka, RabbitMQ
+- **CI/CD & Infrastructure:** Jenkins, Terraform, GitHub Actions
+
+### **Architecture & Design**
+- **Microservices Architecture**
+- **RESTful APIs & GraphQL**
+- **System Design & Scalability**
+
+---
+
+For more details, check out my **[GitHub Profile](https://github.com/yourgithubusername)**.
+
+---
+
+## 📬 Let's Connect
+📩 Email: [azamatabraev07@gmail.com](mailto:azamatabraev07@gmail.com)  
+💼 LinkedIn: [Azamat Abraev](https://www.linkedin.com/in/azamat-abraev)  
+📂 Portfolio: **[YourWebsite.com](#)** (if applicable)
+
+I'm always open to networking, collaboration, and discussing innovative projects. Let's build something great together! 🚀
+
