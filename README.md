@@ -37,7 +37,7 @@ Welcome to my profile! I'm a passionate Java Developer with expertise in designi
 ---
 
 ## 📬 Let's Connect
-📩 Email: [azamatabraev07@gmail.com](mailto:azamatabraev07@gmail.com)  
+📩 Email: [aabraev01@gmail.com](mailto:aabraev01@gmail.com)  
 💼 LinkedIn: [Azamat Abraev](https://www.linkedin.com/in/azamat-abraev)  
 
 I'm always open to networking, collaboration, and discussing innovative projects. Let's build something great together! 🚀
